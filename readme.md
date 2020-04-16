@@ -1,5 +1,5 @@
-<h1>OptimizedHTML 5</h1>
-<p>Lightweight startup HTML5 template, based on Gulp.</p>
+<h1>OptimizedHTML 5 multi-project</h1>
+<p>Lightweight startup HTML5 template, based on Gulp for multi-project in one folder</p>
 
 <p>
 	<img src="https://raw.githubusercontent.com/agragregra/oh5/master/app/images/src/preview.jpg" alt="Start HTML Template">
